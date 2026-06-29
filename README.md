@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy URX
 
-<!--
-**DVURL/DVURL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
 
-Here are some ideas to get you started:
+- 🎂 14 años
+- 🇪🇨 Ecuador
+- 🐧 Linux (Bazzite KDE)
+- 🐍 Aprendiendo Python
+- 🔴 Aspirante a Red Team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📚 Actualmente aprendiendo
+
+- Linux
+- Redes
+- Python
+- Git y GitHub
+- TryHackMe
+
+
+## 🎯 Mis objetivos
+
+- [ ] Dominar Linux
+- [ ] Mejorar en Python
+- [ ] Completar la ruta Pre Security de TryHackMe
+- [ ] Crear proyectos para GitHub
+- [ ] Construir mi camino hacia Red Team
+
+
+## 📂 Mis proyectos destacados
+
+- 🔐 Login System (Python)
+- 📖 CyberAcademy (Próximamente)
+- 🌐 Más proyectos en camino...
+
