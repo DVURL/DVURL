@@ -21,7 +21,7 @@
 ## 🎯 Mis objetivos
 
 - [ ] Dominar Linux
-- [ ] Mejorar en Python
+- [ ] Mejorar en la programación
 - [ ] Completar la ruta Pre Security de TryHackMe
 - [ ] Crear proyectos para GitHub
 - [ ] Construir mi camino hacia Red Team
