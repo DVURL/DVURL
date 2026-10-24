@@ -1,35 +1,19 @@
-# 👋 Hola, soy URX
+#  Hola, soy Uriel Jaramillo
 
-## 🚀 Sobre mí
+##  Sobre mí
 
-- 🎂 14 años
-- 🇪🇨 Ecuador
-- 🐧 Linux (Bazzite KDE)
-- 🐍 Aprendiendo Python
-- 🔴 Aspirante a Red Team
-
+-  Ecuador
+-  Linux (Bazzite KDE)/ Windows 10
+-  Aprendiendo Python y C++
 
 ## 📚 Actualmente aprendiendo
 
 - Linux
-- Redes
 - Python
 - Git y GitHub
-- TryHackMe
+- C++
 
 
-## 🎯 Mis objetivos
+## Mis proyectos destacados
 
-- [ ] Dominar Linux
-- [ ] Mejorar en la programación
-- [ ] Completar la ruta Pre Security de TryHackMe
-- [ ] Crear proyectos para GitHub
-- [ ] Construir mi camino hacia Red Team
-
-
-## 📂 Mis proyectos destacados
-
-- 🔐 Login System (Python)
-- 📖 CyberAcademy (Próximamente)
-- 🌐 Más proyectos en camino...
-
+- Login System (Python)
